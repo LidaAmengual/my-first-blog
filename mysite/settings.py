@@ -25,7 +25,7 @@ SECRET_KEY = '$6uv&m4z^2f77t5v91rx#^s3h3_8i4k1ub4+q9(f*%+v-z4afi'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', ' . pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'lidaamengual.pythonanywhere.com']
 # Application definition
 
 INSTALLED_APPS = [
